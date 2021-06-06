@@ -39,7 +39,7 @@
 ### 📊 Stats
 
   
-![SSul's github stats](https://github-readme-stats.vercel.app/api?username=maintainker&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hub0720)](https://solved.ac/hub0720/)
+![SSul's github stats](https://github-readme-stats.vercel.app/api?username=maintainker&show_icons=true) [![Solved.ac Profile]
 
 <br />
 
