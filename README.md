@@ -39,7 +39,7 @@
 ### 📊 Stats
 
   
-![SSul's github stats](https://github-readme-stats.vercel.app/api?username=maintainker&show_icons=true) [![Solved.ac Profile]
+![SSul's github stats](https://github-readme-stats.vercel.app/api?username=maintainker&show_icons=true)
 
 <br />
 
