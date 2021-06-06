@@ -1,4 +1,4 @@
-## 👩🏻‍💻 이다은 Danna Lee   
+## 👨🏻‍💻 설영환 SSul   
 
 
 ### 🦥 About Me
@@ -6,7 +6,7 @@
 ✍🏻 &nbsp; Electrical and Computer Engineering
 💻 &nbsp; Front-end (Web)  
 📞 &nbsp; syhwan88@gmail.com  
-🌟 &nbsp; ig: <a href="https://www.instagram.com/ol.cr.rlo/">@ol.cr.rlo</a> / fb: <a href="https://www.facebook.com/danna.lee.92/">Danna Lee</a>  
+🌟 &nbsp; ig: <a href="https://www.instagram.com/sul_daily_life/">@sul_daily_life</a> / velog: <a href="https://velog.io/@maintainker">@maintainker</a>  
 
 <br />
 
