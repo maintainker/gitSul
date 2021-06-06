@@ -2,10 +2,10 @@
 
 
 ### 🦥 About Me
-🏫 &nbsp; Sungkyunkwan Univ., Seoul, Korea  
-✍🏻 &nbsp; Computer Education  
-💻 &nbsp; Front-end (iOS, Web)  
-📞 &nbsp; hub0720@g.skku.edu  
+🏫 &nbsp; University of Seoul, Korea  
+✍🏻 &nbsp; Electrical and Computer Engineering
+💻 &nbsp; Front-end (Web)  
+📞 &nbsp; syhwan88@gmail.com  
 🌟 &nbsp; ig: <a href="https://www.instagram.com/ol.cr.rlo/">@ol.cr.rlo</a> / fb: <a href="https://www.facebook.com/danna.lee.92/">Danna Lee</a>  
 
 <br />
