@@ -35,7 +35,7 @@
 - <a href="https://github.com/Find-U-I/Find-iOS">Find 파인드</a>
 - <a href="https://github.com/TeamYouniverse/Youniverse-Web">Youniverse 유니버스</a>
 <!-- -->
-<a href= "https://apps.apple.com/us/app/id1549517979"><img src="https://user-images.githubusercontent.com/42545818/113259432-1407a980-9308-11eb-93c1-e35a3f5d25fd.png" width = "100"/></a>
+<a href= "https://frontdev.supaja.com"><img src="https://www.supaja.com/live/img/favicon.png" width = "100"/></a>
 -->
 <br />
 
@@ -47,7 +47,6 @@
 <br />
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaeun-Danna-Lee%2F&count_bg=%23E8CAFF&title_bg=%23FFD000&icon=&icon_color=%23CFCFCF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **Daeun-Danna-Lee/Daeun-Danna-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
