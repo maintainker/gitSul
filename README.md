@@ -34,7 +34,7 @@
 - <a href="https://github.com/Find-U-I/Find-iOS">Find 파인드</a>
 - <a href="https://github.com/TeamYouniverse/Youniverse-Web">Youniverse 유니버스</a>
 <!-- -->
-<a href= "https://frontdev.supaja.com"><img src="https://www.supaja.com/live/img/favicon.png" height = "12"/> 수파자학생페이지 </a>
+<a href= "https://student.supaja.com"><img src="https://www.supaja.com/live/img/favicon.png" height = "12"/> 수파자학생페이지 </a>
 <br />
 
 ### 📊 Stats
