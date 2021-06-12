@@ -3,7 +3,7 @@
 
 ### 🦥 About Me
 🏫 &nbsp; University of Seoul, Korea  
-✍🏻 &nbsp; Electrical and Computer Engineering
+✍🏻 &nbsp; Electrical and Computer Engineering  
 💻 &nbsp; Front-end (Web)  
 📞 &nbsp; syhwan88@gmail.com  
 🌟 &nbsp; ig: <a href="https://www.instagram.com/sul_daily_life/">@sul_daily_life</a> / velog: <a href="https://velog.io/@maintainker">@maintainker</a>  
